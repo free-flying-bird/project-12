@@ -2,8 +2,7 @@
 ### Version v1.0.0
 ### It's the website, where you can share your photo of the interesting.
 ### With my Backend you can get information about users and cards with photo, which users added.
-### Link:
-#### https://sokolik90.github.io/project-12/
+
 ### What i used:
 #### HTML, CSS, JS, Webpack, NODE.JS, NPM, EXPRESS.JS
 ### How to use (instruction for terminal):
