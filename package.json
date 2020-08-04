@@ -3,6 +3,13 @@
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
+  "eslintConfig": {
+    "env": {
+        "browser": true,
+        "node": true
+    }
+},
+"eslintIgnore": ["main.5ab15fb6d9cc8d3feb44.js"],
   "scripts": {
     "start": "node app.js",
     "dev": "nodemon app.js"
