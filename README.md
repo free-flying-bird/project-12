@@ -7,7 +7,7 @@
 #### HTML, CSS, JS, Webpack, NODE.JS, NPM, EXPRESS.JS
 ### How to use (instruction for terminal):
 #### 1) Install NODE.JS;
-#### 2) Make clone of repository: git clone https://github.com/sokolik90/project-12.git;
+#### 2) Make clone of repository: git clone https://github.com/free-flying-bird/project-12.git;
 #### 3) Instal NPM: npm install;
 
 ### For use command (starts the app on the local server: localhost:3000): 
